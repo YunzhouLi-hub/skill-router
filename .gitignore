@@ -1,5 +1,6 @@
 # Machine-local catalog (contains absolute paths)
 skills-catalog.json
+SKILL.md.local-backup
 __pycache__/
 *.pyc
 .DS_Store
